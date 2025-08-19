@@ -1,4 +1,5 @@
 Module 1 | Version Control and Introduction to Software Development Assignment
+==============================================================================
 
 This is an assigment I made for the Summer semester of 2025 for my Object Oriented Programming class.
 I was tasked to create an exception class that catches any username or password that does not adhere
@@ -8,7 +9,10 @@ for the assignment.
 
 
 Original notes on the project
+-----------------------------
 
+
+```
 // Autumn Skye
 // COP-3330C 33777
 // May 10, 2025
@@ -75,3 +79,4 @@ Original notes on the project
 *
 *      Outputs all the usernames and passwords once they are all successfully created!
 */
+```
