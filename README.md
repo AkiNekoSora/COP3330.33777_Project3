@@ -1,15 +1,17 @@
 Module 1 | Version Control and Introduction to Software Development Assignment
 ==============================================================================
+Autumn Skye
+202610 Software Development I 
+CEN-3024C-13950
 
-This is an assigment I made for the Summer semester of 2025 for my Object Oriented Programming class.
-I was tasked to create an exception class that catches any username or password that does not adhere
-to the requirements listed. I decided to have some fun and make some weird requirements! I also have 
-left all the original comments because I thought they would be helpful since they had to be quite detailed
-for the assignment.
+This is the 3rd project I made for the Summer semester of 2025 for my Object Oriented Programming class (Module 3 | Exceptions).
+I was tasked to create an exception class that catches any username or password that does not adhere to the requirements listed. I decided to have some fun and make some weird requirements! I also have left all the original comments because I thought they would be helpful since they had to be quite detailed for the assignment.
+We were learning how to work with exceptions, including how to make our own. So that is the main concept completed during this assignment
 
 
 Original notes on the project
 -----------------------------
+This includes the inputs and outputs of the application.
 
 
 ```
